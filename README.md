@@ -1,5 +1,6 @@
 # The-World-COVID-19-Time-Series-Forecasting
 Summary Data Columns Description:
+
 country: designates the Country in which the the row's data was observed.
 continent: designates the Continent of the observed country.
 total_confirmed: designates the total number of confirmed cases in the observed country.
@@ -12,6 +13,7 @@ total_deaths_per_1m_population: designates the number of total deaths per 1 mill
 total_tests: designates the number of total tests done in the observed country.
 total_tests_per_1m_population: designates the number of total test done per 1 million population in the observed country.
 population: designates the population count in the observed country.
+
 Daily Data Columns Description:
 date: designates the date of observation of the row's data in YYYY-MM-DD format.
 country: designates the Country in which the the row's data was observed.
